@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600&display=swap');
+
+html {
+    min-height: 100%;
+    background-image: url('https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+ }
+
+ .container {
+     margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ img {
+     position: absolute;
+     border-radius: 50%;
+     border: solid 3px rgb(245, 242, 242);
+ }
